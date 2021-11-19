@@ -1,0 +1,27 @@
+{
+    "title": "Checkout Page for Bank Transfer v2.0",
+    "tags": [
+      "UI & UX Design",
+      "Website, App, Checkout"
+    ],
+    "content": [
+      {
+        "image": "assets/summary-supatmo-detail1.png"
+      },
+      {
+        "text": "So, when a user is opening the manual transfer summary page, the user wants the process to be faster and want to be easier to scan more important information such as unique number, and payment status check. So that they can complete their payment process faster, with a higher success rate. Here are some improvements I made to give a better experience."
+      },
+      {
+        "text": "- Less is more. I keep the summary page simple and it will look and feel easy to navigate."
+      },
+      {
+        "text": "- Added a countdown, this will make users to make payments immediately because time is very limited."
+      },
+      {
+        "text": "- Education for users so that future payments use faster, easier and more efficient payments."
+      },
+      {
+        "text": "- Ensuring users to focus on payment information and the amount of the donation along with the unique number."
+      }
+    ]
+  }
